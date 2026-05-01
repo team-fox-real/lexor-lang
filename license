@@ -1,0 +1,41 @@
+LEXOR SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2024 [Your Name or GitHub Username]
+
+1. LICENSE GRANT
+Permission is hereby granted to any person obtaining a copy of the Lexor programming 
+language and its associated documentation files (the "Software") for:
+- Personal, educational, and research use.
+- Modification of the source code for private use.
+- Development and execution of software applications written in the Lexor language.
+
+2. RESTRICTIONS ON COMPILER/INTERPRETER
+The following actions are strictly prohibited without prior written consent from 
+the author:
+- Commercial Redistribution of the Language: You may not sell, rent, or lease the 
+  Lexor compiler, interpreter, or any modified versions of the Lexor core system.
+- Sublicensing: You may not redistribute the Software under a different license.
+
+3. INTELLECTUAL PROPERTY
+The original author retains all rights, titles, and interests in and to the Lexor 
+language design, grammar, and official implementations. 
+
+4. COMMERCIAL FREEDOM FOR END-USER APPLICATIONS
+Notwithstanding the restrictions in Section 2, any software programs or applications 
+created by users using the Lexor language are the sole property of their respective 
+creators. Users are granted a perpetual, royalty-free license to distribute and 
+sell their own applications created with Lexor commercially, without any obligation 
+to the author of the language.
+
+5. TERMINATION
+This license terminates automatically if you fail to comply with any of its terms. 
+Upon termination, you must cease all use of the Software core.
+
+6. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
+SOFTWARE.
